@@ -1,7 +1,9 @@
 # PROJECT_CALCULATOR
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript.
+
 "This project is currently hosted on Netlify and can be accessed here."
+https://ca-lc-ul-at-or.netlify.app/
 
 Features
 
