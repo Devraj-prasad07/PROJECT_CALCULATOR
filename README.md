@@ -11,8 +11,8 @@ Responsive design for use on desktop and mobile devices.
 <------Installation------>
 
 Clone the repository:
-git clone https://github.com/Devraj-prasad07/PROJECT_CALCULATOR.git
-Open the index.html file in your web browser.
+1. git clone https://github.com/Devraj-prasad07/PROJECT_CALCULATOR.git
+2. Open the index.html file in your web browser.
 
 Usage:
 1. Enter numbers and perform calculations using the buttons provided.
