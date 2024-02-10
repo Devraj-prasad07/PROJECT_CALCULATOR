@@ -11,7 +11,7 @@ Responsive design for use on desktop and mobile devices.
 <------Installation------>
 
 Clone the repository:
-git clone https://github.com/your-username/PROJECT_CALCULATOR.git
+git clone https://github.com/Devraj-prasad07/PROJECT_CALCULATOR.git
 Open the index.html file in your web browser.
 
 Usage:
