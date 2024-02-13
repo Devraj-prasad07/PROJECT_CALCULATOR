@@ -4,6 +4,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 "This project is currently hosted on Netlify and can be accessed here."
 https://ca-lc-ul-at-or.netlify.app/
+Kindly use it in Desktop Mode as I have not implemented media queries in this project..
 
 Features
 
